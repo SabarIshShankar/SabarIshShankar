@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SabarIshShankar" alt="S" /> 
 </p>
-<p align="center">
-  <a href="https://github.com/Sabarish/github-readme-streak-stats">
-    <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=SabarIshShankar&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+
 
 <!--
 **SabarIshShankar/SabarIshShankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
